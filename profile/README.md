@@ -6,4 +6,4 @@ Software for the love of it, without the bullshit.
 ### Unnecessary Projects
 
 - 🤓 **[bookie](https://bookie.tax)** — Conquer the bookkeeping and accounting chaos of freelancing.
-- 👻 **[ghist](https://github.com/unnecessary](https://github.com/unnecessary-special-projects/ghist))** — Task management that lives in your repo.
+- 👻 **[ghist](https://github.com/unnecessary-special-projects/ghist)** — Task management that lives in your repo.
